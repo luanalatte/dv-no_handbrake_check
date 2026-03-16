@@ -1,9 +1,9 @@
 {
 	"Releases": [
 		{
-			"Id": "MOD_NAME",
+			"Id": "NoHandbrakeCheck",
 			"Version": "1.0.0",
-			"DownloadUrl": "https://github.com/OWNER/REPOSITORY/releases/download/TAG/FILE_NAME.zip"
+			"DownloadUrl": "https://github.com/luanalatte/dv-no_handbrake_check/releases/download/1.0.0/NoHandbrakeCheck_v1.0.0.zip"
 		}
 	]
 }

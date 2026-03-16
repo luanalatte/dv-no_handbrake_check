@@ -1,9 +1,9 @@
 {
-	"Id": "MOD_NAME",
+	"Id": "NoHandbrakeCheck",
 	"Version": "1.0.0",
-	"DisplayName": "MOD_NAME",
-	"Author": "MOD_AUTHOR",
-	"EntryMethod": "MOD_NAME.Main.Load",
-	"ManagerVersion": "0.27.3",
-	"Repository": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/repository.json"
+	"DisplayName": "NoHandbrakeCheck",
+	"Author": "luanalatte",
+	"EntryMethod": "NoHandbrakeCheck.Main.Load",
+	"ManagerVersion": "0.32.4",
+	"Repository": "https://raw.githubusercontent.com/luanalatte/dv-no_handbrake_check/main/repository.json"
 }
